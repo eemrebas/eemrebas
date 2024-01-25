@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emre</h1>
 <h3 align="center">Web developer from Turkey</h3>
 
-- 🔭 I’m currently working at **Foreks Digital Solutions**
+- 🔭 I’m currently working at **ForInvest**
 
 - 💬 Ask me about **Vue and React**
 
